@@ -58,5 +58,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.google.android.gms:play-services-fitness:20.0.0'
     implementation 'com.google.android.gms:play-services-auth:19.0.0'
-    implementation "androidx.work:work-runtime:2.6.0-alpha01"
+    implementation 'androidx.work:work-runtime:2.7.0-alpha02'
 }
